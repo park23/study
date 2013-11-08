@@ -101,7 +101,7 @@ $developer="p4rk";
 	АНКЕТИРОВАНИЕ СТУДЕНТОВ
 </div>
 <footer>
-	<marquee behavior="alternate" direction="right"><span style="color:#56F21D"><b>Разработчик:</b> <i>Пак Дмитрий. Группа ПОВТ-1-09</i>  ||  <b>Developer:</b> <i><?=$developer;?> &#169 2012</i></span></marquee>
+	<marquee behavior="alternate" direction="right"><span style="color:#56F21D" ||  <b>Developer:</b> <i><?=$developer;?> &#169 2012</i></span></marquee>
 </footer>
 
 	</body>
